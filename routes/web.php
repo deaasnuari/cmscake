@@ -18,10 +18,4 @@ Route::get('/catalog', function () {
     return view('catalog');
 });
 
-Route::get('/profil_user', function () {
-    return view('profil_user');
-});
-
-
-
 ?>
