@@ -37,6 +37,7 @@
   </style>
 </head>
 <body>
+
   <!-- Header -->
   <header class="bg-gray-800 text-white flex justify-between items-center p-4">
     <div class="text-lg font-bold">Manies Cakery</div>
@@ -49,6 +50,7 @@
   </header>
   <!--  END Header -->
 
+  
   <!-- MAIN-->
   <div class="container">
 <!-- BAR NAVIGASI -->
