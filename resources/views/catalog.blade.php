@@ -28,6 +28,7 @@
       gap: 30px;
       font-size: 14px;
       margin-top: auto; 
+    }
 
     .footer-section h4 {
       margin-bottom: 10px;
